@@ -154,16 +154,16 @@
  }
  .main-page-wrapper {overflow-x:hidden;}
  h1,h2,h3,h4,h5,h6,p,ul { margin:0;padding: 0;}
- h1,h2,h3,h4,h5,h6 {font-family: 'Nunito Sans', sans-serif; color: #232323;}
+ h1,h2,h3,h4,h5,h6 {font-family: 'Nunito Sans', sans-serif; color: #040c5d;}
  h1 {font-size: 60px; font-weight: 900;line-height: 70px;}
  h2 {font-size: 38px; font-weight: 900;}
  h3 {font-size: 32px; font-weight: 700;}
  h4 {font-size: 24px; font-weight: 700;}
  h5 {font-size: 22px; font-weight: 700;}
  h6 {font-size: 20px; font-weight: normal;}
- p {line-height: 27px;}
+ p {line-height: 24px;}
  ul {list-style-type: none;}
- body a {text-decoration: none;color: #232323; display: inline-block;font-family: 'Nunito Sans', sans-serif;}
+ body a {text-decoration: none;color: #040c5d; display: inline-block;font-family: 'Nunito Sans', sans-serif;}
  a:hover,a:focus,a:visited {text-decoration: none; outline: none;}
  img {max-width: 100%; display: block;}
  button {border:none;outline: none;box-shadow: none;display: block; padding: 0;cursor: pointer;}
@@ -1081,7 +1081,7 @@ body .theme-button-one:hover {background:#000f32; }
 .about-compnay-two .left-img {border-radius: 5px;}
 .about-compnay-two.no-bg {background: none;}
 .about-compnay-two.no-bg .overlay {background: #fff;padding: 0;}
-.about-compnay-two.no-bg .theme-title-one h2 {color: #232323;}
+.about-compnay-two.no-bg .theme-title-one h2 {color: #00075d;}
 .about-compnay-two.no-bg .theme-title-one h2:before {background: #c3c3c3;}
 .about-compnay-two.no-bg .text p {color: #555555;padding-right: 0;}
 /*----------------------- Our Case --------------------*/
@@ -1349,11 +1349,11 @@ body .theme-button-one:hover {background:#000f32; }
 }
 .why-we-best .wrapper .best-list-item li {
   position: relative;
-  margin-bottom: 50px;
+  margin-bottom: 15px;
   padding: 0 0 0 90px;
 }
 .why-we-best .wrapper .best-list-item li:last-child {margin-bottom: 0;}
-.why-we-best .wrapper .best-list-item li h5 {margin-bottom: 10px;}
+.why-we-best .wrapper .best-list-item li h5 {margin-bottom: 2px;}
 .why-we-best .wrapper .best-list-item li .icon {
   position: absolute;
   top:-10px;
